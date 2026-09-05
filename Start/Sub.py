@@ -6,5 +6,6 @@ a2 = np.array([9,8,7,6,11])
 print("Array 1 is :",a1)
 print("Array 2 is :",a2)
 
-Sub = np.subtract(a1 , a2)
-print("Difference between Array 1 & 2",Sub)
+# Sub = np.subtract(a1 , a2)
+mul = np.multiply(a1 , a2)
+print("Difference between Array 1 & 2",mul)
