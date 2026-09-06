@@ -1,4 +1,4 @@
-# Addition operation in numpy array
+# Addition and Subtract operation in numpy array
 import numpy as np
 
 a1 = np.array([10,20,30,40,50])
